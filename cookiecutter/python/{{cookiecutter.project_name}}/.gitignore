@@ -1,8 +1,0 @@
-*.log
-logs/
-
-config/
-
-venv/
-
-__pycache__/
